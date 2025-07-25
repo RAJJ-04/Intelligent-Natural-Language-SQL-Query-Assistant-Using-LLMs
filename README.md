@@ -5,7 +5,7 @@ Intelligent Natural Language SQL Query Assistant Using LLMs is a intelligent sys
 Intelligent Natural Language SQL Query Assistant Using LLMs
 A general-purpose, AI-powered platform that allows anyone to query SQL databases using natural language, powered by large language models (LLMs). No SQL expertise required!
 
-
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Table of Contents : 
 
