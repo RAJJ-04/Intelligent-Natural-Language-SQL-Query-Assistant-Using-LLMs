@@ -1,0 +1,2 @@
+# Intelligent-Natural-Language-SQL-Query-Assistant-Using-LLMs
+Intelligent Natural Language SQL Query Assistant Using LLMs is a intelligent system that lets users query structured databases using plain English. Powered by advanced LLMs, it interprets user questions, generates accurate SQL, and delivers clear, data-driven answers making database analytics simple for everyone, no SQL skills required.
