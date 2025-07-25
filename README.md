@@ -9,22 +9,23 @@ ________________________________________________________________________________
 
 Table of Contents : 
 
-Features
+-> Features
 
-Demo Screenshot
+-> Demo Screenshot
 
-How It Works
+-> How It Works
 
-Installation
+-> Installation
 
-Configuration
+-> Configuration
 
-Usage
+-> Usage
 
-Examples
+-> Examples
 
-Project Structure
+-> Project Structure
 
-License
+-> Acknowledgements
 
-Acknowledgements
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
