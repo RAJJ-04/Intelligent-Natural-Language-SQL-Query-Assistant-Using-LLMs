@@ -1,0 +1,10 @@
+streamlit
+mysql-connector-python
+langchain
+langchain-community
+langchain-experimental
+langchain-openai
+openai
+pymysql
+huggingface-hub
+chromadb
