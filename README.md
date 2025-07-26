@@ -29,3 +29,19 @@ Table of Contents :
 
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Features :
+
+- 🔎 Query SQL databases using plain English.
+
+- 🤖 Powered by LLMs like OpenAI GPT for natural language understanding and SQL generation.
+
+- 📊 Supports MySQL (easily extensible to other SQL databases).
+
+- 💡 Transparent: shows generated SQL and the answer.
+
+- 🖥️ User-friendly Streamlit web interface.
+
+- 🛠️ Modular & extendable for future improvements.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
