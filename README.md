@@ -57,3 +57,17 @@ How It Works :
 4. The result and the generated SQL are displayed for review and learning.
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Configuration :
+
+-> Set up your MySQL database and tables.
+
+-> Obtain an OpenAI API key (or Perplexity, etc.).
+
+-> Set your credentials as environment variables (recommended) or edit them in app.py:
+
+           - OPENAI_API_KEY
+
+           - MYSQL_URI (e.g., mysql+mysqlconnector://user:password@localhost:3306/yourdbname)
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
